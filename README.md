@@ -1,1 +1,1 @@
-this contains instruction of project
+this contains instructions of project
